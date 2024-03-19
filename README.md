@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a discovery of the Puppeteer library, which allows you to scrape data from your Netflix account to obtain statistics.
+This project is an exploration of the Puppeteer library, which allows you to retrieve data from your Netflix account to obtain statistics. (I take no responsibility for the use of this script).
 
 ## Features
 
