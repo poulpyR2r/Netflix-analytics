@@ -13,7 +13,7 @@ This project is an exploration of the Puppeteer library, which allows you to ret
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/Netflix-analytics.git`
+1. Clone the repository: `git clone https://github.com/poulpyR2r/Netflix-analytics`
 2. Install the required dependencies: `npm install`
 
 ## Usage
