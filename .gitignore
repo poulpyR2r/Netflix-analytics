@@ -1,0 +1,16 @@
+node_modules/
+
+
+.npmrc
+.env
+
+logs
+*.log
+
+/build
+/dist
+
+.DS_Store
+
+.tmp
+.temp
